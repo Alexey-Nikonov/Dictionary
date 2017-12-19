@@ -1,0 +1,1 @@
+DO FORM "c:\users\nikonov-nbook\desktop\foxpro2\main_form.scx"SET DELETEDSET DELETED ONDO FORM "c:\users\nikonov-nbook\desktop\foxpro2\main_form.scx"
